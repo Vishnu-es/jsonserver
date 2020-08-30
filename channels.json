@@ -5,6 +5,11 @@
 "youtubeurl" : "https://www.youtube.com/watch?v=0Oly6PqHjAA"
   },
   {
+"channel":"Al Jazeera",
+"image": "https://1.bp.blogspot.com/-X3lZKxLqEWk/XyzVJ6kA0rI/AAAAAAAABaM/Kr7VrKezRsosJfgLa796IkE0YtDo5m6owCLcBGAsYHQ/s640/ajtak.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=_dsWF2prkR8"
+  },
+  {
 "channel":"Asianet",
 "image": "https://1.bp.blogspot.com/-epFm5yoPk80/XzuhSUV7JtI/AAAAAAAABc8/5ER4ykpUR7gcDMnHibNgVGsI4I5cxtRtwCLcBGAsYHQ/s0/unnamed.png",
 "youtubeurl" : "https://www.youtube.com/watch?v=iL53Y28Rp84"
@@ -15,38 +20,73 @@
 "youtubeurl" : "https://www.youtube.com/watch?v=XWq5kBlakcQ"
   },
   {
-"channel":"Aaj Tak",
-"image": "https://1.bp.blogspot.com/-X3lZKxLqEWk/XyzVJ6kA0rI/AAAAAAAABaM/Kr7VrKezRsosJfgLa796IkE0YtDo5m6owCLcBGAsYHQ/s640/ajtak.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=0Oly6PqHjAA"
+"channel":"CNBC",
+"image": "https://1.bp.blogspot.com/-yH-7DJD8dsM/XzuqFGaB0rI/AAAAAAAABd4/RteT_aqoJsUH53JYYhPPjvDyr8S9c7K7QCLcBGAsYHQ/s640/cnbc.jpg",
+"youtubeurl" : "https://www.youtube.com/watch?v=docCmn0NWpo"
   },
   {
-"channel":"Aaj Tak",
-"image": "https://1.bp.blogspot.com/-X3lZKxLqEWk/XyzVJ6kA0rI/AAAAAAAABaM/Kr7VrKezRsosJfgLa796IkE0YtDo5m6owCLcBGAsYHQ/s640/ajtak.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=0Oly6PqHjAA"
+"channel":"CNN",
+"image": "https://1.bp.blogspot.com/-iVldJPtn8cA/XyzVKeunaKI/AAAAAAAABaQ/JrOe1l01IA0DI3fMNyGTOsUd1DqZGcP7QCLcBGAsYHQ/s640/cnn.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=uPP0t8a0q0M"
   },
   {
-"channel":"Aaj Tak",
-"image": "https://1.bp.blogspot.com/-X3lZKxLqEWk/XyzVJ6kA0rI/AAAAAAAABaM/Kr7VrKezRsosJfgLa796IkE0YtDo5m6owCLcBGAsYHQ/s640/ajtak.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=0Oly6PqHjAA"
+"channel":"DD India",
+"image": "https://1.bp.blogspot.com/-6bLp3x62OpQ/Xzul2kLYQrI/AAAAAAAABdU/2sHrBXvFr7gFuM0Ey3ftaJdB6egnLnGJQCLcBGAsYHQ/s0/dd.jpg",
+"youtubeurl" : "https://www.youtube.com/watch?v=8PjhuULgZUQ"
   },
   {
-"channel":"Aaj Tak",
-"image": "https://1.bp.blogspot.com/-X3lZKxLqEWk/XyzVJ6kA0rI/AAAAAAAABaM/Kr7VrKezRsosJfgLa796IkE0YtDo5m6owCLcBGAsYHQ/s640/ajtak.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=0Oly6PqHjAA"
+"channel":"DD News",
+"image": "https://1.bp.blogspot.com/-6bLp3x62OpQ/Xzul2kLYQrI/AAAAAAAABdU/2sHrBXvFr7gFuM0Ey3ftaJdB6egnLnGJQCLcBGAsYHQ/s0/dd.jpg",
+"youtubeurl" : "https://www.youtube.com/watch?v=bo_PvXl0ewA"
   },
   {
-"channel":"Aaj Tak",
-"image": "https://1.bp.blogspot.com/-X3lZKxLqEWk/XyzVJ6kA0rI/AAAAAAAABaM/Kr7VrKezRsosJfgLa796IkE0YtDo5m6owCLcBGAsYHQ/s640/ajtak.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=0Oly6PqHjAA"
+"channel":"DD Sports",
+"image": "https://1.bp.blogspot.com/-6bLp3x62OpQ/Xzul2kLYQrI/AAAAAAAABdU/2sHrBXvFr7gFuM0Ey3ftaJdB6egnLnGJQCLcBGAsYHQ/s0/dd.jpg",
+"youtubeurl" : "https://www.youtube.com/watch?v=HOvfOarXTHQ"
   },
   {
-"channel":"Aaj Tak",
-"image": "https://1.bp.blogspot.com/-X3lZKxLqEWk/XyzVJ6kA0rI/AAAAAAAABaM/Kr7VrKezRsosJfgLa796IkE0YtDo5m6owCLcBGAsYHQ/s640/ajtak.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=0Oly6PqHjAA"
+"channel":"Dighvijaya",
+"image": "https://1.bp.blogspot.com/-6bLp3x62OpQ/Xzul2kLYQrI/AAAAAAAABdU/2sHrBXvFr7gFuM0Ey3ftaJdB6egnLnGJQCLcBGAsYHQ/s0/dd.jpg",
+"youtubeurl" : "https://www.youtube.com/watch?v=kUHPx_5lxZY"
   },
   {
-"channel":"Aaj Tak",
-"image": "https://1.bp.blogspot.com/-X3lZKxLqEWk/XyzVJ6kA0rI/AAAAAAAABaM/Kr7VrKezRsosJfgLa796IkE0YtDo5m6owCLcBGAsYHQ/s640/ajtak.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=0Oly6PqHjAA"
+"channel":"India Tv",
+"image": "https://1.bp.blogspot.com/-6bLp3x62OpQ/Xzul2kLYQrI/AAAAAAAABdU/2sHrBXvFr7gFuM0Ey3ftaJdB6egnLnGJQCLcBGAsYHQ/s0/dd.jpg",
+"youtubeurl" : "https://www.youtube.com/watch?v=iW6SixbioGA"
+  },
+  {
+"channel":"Manorama",
+"image": "https://1.bp.blogspot.com/-6bLp3x62OpQ/Xzul2kLYQrI/AAAAAAAABdU/2sHrBXvFr7gFuM0Ey3ftaJdB6egnLnGJQCLcBGAsYHQ/s0/dd.jpg",
+"youtubeurl" : "https://www.youtube.com/watch?v=jjH6v95z3Nw"
+  },
+  {
+"channel":"NDTV",
+"image": "https://1.bp.blogspot.com/-Ag9LY2rZba8/Xyzr-aTVZ-I/AAAAAAAABb4/upW5kZW3sconlAPW0zM1lqU7wEVWFka_wCLcBGAsYHQ/s640/dtv.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=l9ViEIip9q4"
+  },
+  {
+"channel":"News18",
+"image": "https://1.bp.blogspot.com/-vqg7R5n3NRc/XyzX8K9YFtI/AAAAAAAABa4/xuFjgmYEZ8E0fDF4csAbLIgJVuxEyBJwACLcBGAsYHQ/s640/news18.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=H9fVAH6Kr70"
+  },
+   {
+"channel":"News18",
+"image": "https://1.bp.blogspot.com/-vqg7R5n3NRc/XyzX8K9YFtI/AAAAAAAABa4/xuFjgmYEZ8E0fDF4csAbLIgJVuxEyBJwACLcBGAsYHQ/s640/news18.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=DupLX2bHFKw"
+  },
+  {
+"channel":"Republic World",
+"image": "https://1.bp.blogspot.com/-vqg7R5n3NRc/XyzX8K9YFtI/AAAAAAAABa4/xuFjgmYEZ8E0fDF4csAbLIgJVuxEyBJwACLcBGAsYHQ/s640/news18.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=KkoUWsWAGy8"
+  },
+  {
+"channel":"TV5",
+"image": "https://1.bp.blogspot.com/-7jEl4F9hdXU/XyrN9_DlhDI/AAAAAAAABYw/Es_RlGNWePocxwf0SVBUPSP-N6nZT5cNgCLcBGAsYHQ/s640/tv5.jpg",
+"youtubeurl" : "https://www.youtube.com/watch?v=gdy0_B5vHJ0"
+  },
+  {
+"channel":"TV9",
+"image": "https://1.bp.blogspot.com/-8wJye-5bBRY/Xy0AlGWqtBI/AAAAAAAABcE/Y6NYml6fIPM2IKdhLVmp0PtIhuuvn84owCLcBGAsYHQ/s640/tvv9.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=jdJoOhqCipA"
   }
 ]
