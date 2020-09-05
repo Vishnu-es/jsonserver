@@ -9,11 +9,6 @@
 "image": "https://1.bp.blogspot.com/-QXBObM8ZWqE/XyzVJwgT8bI/AAAAAAAABaI/mRA9U4yFApYsLY-RzdLOCoXLpwhtldppQCLcBGAsYHQ/w1400/abp.png",
 "youtubeurl" : "https://www.youtube.com/watch?v=GmJCfhEoS9Q"
   },
-  {
-"channel":"ABP",
-"image": "https://1.bp.blogspot.com/-QXBObM8ZWqE/XyzVJwgT8bI/AAAAAAAABaI/mRA9U4yFApYsLY-RzdLOCoXLpwhtldppQCLcBGAsYHQ/w1400/abp.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=HtD_dk_iGRE"
-  },
     {
 "channel":"Bharatvarsh",
 "image": "https://1.bp.blogspot.com/-DqsCEcTcvQQ/X1Mf9oPPbII/AAAAAAAABhA/x8eDanDYX0EcjevoUsYnjMM15taFCzq6gCLcBGAsYHQ/s512/bharathvarsh.png",
@@ -64,6 +59,11 @@
 "image": "https://1.bp.blogspot.com/-Pg8b9dMOgog/X0x-uiqsUtI/AAAAAAAABfo/HtUhuut2JccQzhn4ctW1Ilrv4SvfjTWtACLcBGAsYHQ/s0/dighvijay-tv-24x7-news-channel-logo-300x300.jpg",
 "youtubeurl" : "https://www.youtube.com/watch?v=kUHPx_5lxZY"
   },
+   {
+"channel":"India Today",
+"image": "https://1.bp.blogspot.com/-yVgH5rQmUNA/X1NZRQQfURI/AAAAAAAABhU/14PS51QOF7smmXwdWFz7TK5spGMVNcSdQCLcBGAsYHQ/s320/india-today.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=HtD_dk_iGRE"
+  },
   {
 "channel":"India Tv",
 "image": "https://1.bp.blogspot.com/-cLXz4Bf8jlo/X0x-u1XEuhI/AAAAAAAABfs/T4HUVjX6pMcowKbH9i6LXQB4sAkCZbONACLcBGAsYHQ/s0/indiatv.png",
@@ -98,6 +98,11 @@
 "channel":"Republic World",
 "image": "https://1.bp.blogspot.com/-MOvMP0XItpY/X0x-vodnZeI/AAAAAAAABf8/8ZabLz5RxskWb8A57QQ-I60aGn8iVWRUwCLcBGAsYHQ/s0/republicworld.png",
 "youtubeurl" : "https://www.youtube.com/watch?v=KkoUWsWAGy8"
+  },
+  {
+"channel":"Suvarna",
+"image": "https://1.bp.blogspot.com/-MOvMP0XItpY/X0x-vodnZeI/AAAAAAAABf8/8ZabLz5RxskWb8A57QQ-I60aGn8iVWRUwCLcBGAsYHQ/s0/republicworld.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=HyAwabRXB-A"
   },
   {
 "channel":"TV5",
