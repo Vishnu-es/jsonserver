@@ -33,7 +33,7 @@
   {
 "channel":"CNBC",
 "image": "https://1.bp.blogspot.com/-yH-7DJD8dsM/XzuqFGaB0rI/AAAAAAAABd4/RteT_aqoJsUH53JYYhPPjvDyr8S9c7K7QCLcBGAsYHQ/s640/cnbc.jpg",
-"youtubeurl" : "https://www.youtube.com/watch?v=nuN7sxQ8JDI"
+"youtubeurl" : "https://www.youtube.com/watch?v=fSQ0Z0lr9m0"
   },
   {
 "channel":"CNN",
@@ -88,7 +88,7 @@
   {
 "channel":"News18",
 "image": "https://1.bp.blogspot.com/--Z1GmWFRH0o/X1MgKYfhNkI/AAAAAAAABhE/7JIjKwoX9d8GcwMeiDa0PMfWG4BNlWfzwCLcBGAsYHQ/s320/news18kan.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=QK3-n0VjczQ"
+"youtubeurl" : "https://www.youtube.com/watch?v=T8HnTa9o5hA"
   },
    {
 "channel":"News18",
@@ -114,5 +114,11 @@
 "channel":"TV9",
 "image": "https://1.bp.blogspot.com/-8wJye-5bBRY/Xy0AlGWqtBI/AAAAAAAABcE/Y6NYml6fIPM2IKdhLVmp0PtIhuuvn84owCLcBGAsYHQ/s640/tvv9.png",
 "youtubeurl" : "https://www.youtube.com/watch?v=jdJoOhqCipA"
+  },
+  ,
+  {
+"channel":"Suvarna",
+"image": "https://1.bp.blogspot.com/-8wJye-5bBRY/Xy0AlGWqtBI/AAAAAAAABcE/Y6NYml6fIPM2IKdhLVmp0PtIhuuvn84owCLcBGAsYHQ/s640/tvv9.png",
+"youtubeurl" : "https://www.youtube.com/watch?v=fEJ4kBnbRz0"
   }
 ]
