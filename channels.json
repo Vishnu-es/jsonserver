@@ -104,7 +104,13 @@
 "image": "https://1.bp.blogspot.com/-MOvMP0XItpY/X0x-vodnZeI/AAAAAAAABf8/8ZabLz5RxskWb8A57QQ-I60aGn8iVWRUwCLcBGAsYHQ/s0/republicworld.png",
 "youtubeurl" : "https://www.youtube.com/watch?v=KkoUWsWAGy8"
   },
- 
+   
+  {
+"channel":"Suvarna",
+"image": "https://1.bp.blogspot.com/-8wJye-5bBRY/Xy0AlGWqtBI/AAAAAAAABcE/Y6NYml6fIPM2IKdhLVmp0PtIhuuvn84owCLcBGAsYHQ/s640/tvv9.png",
+"youtubeurl" : "https://1.bp.blogspot.com/-CukK02MqLdo/X2MoTCmS3iI/AAAAAAAABiw/iaxFSfHuGNUtYX4azDG4vOYnEJ4eiCrVgCLcBGAsYHQ/s0/suvarnanews.png"
+  },
+  
   {
 "channel":"TV5",
 "image": "https://1.bp.blogspot.com/-7jEl4F9hdXU/XyrN9_DlhDI/AAAAAAAABYw/Es_RlGNWePocxwf0SVBUPSP-N6nZT5cNgCLcBGAsYHQ/s640/tv5.jpg",
@@ -115,10 +121,5 @@
 "image": "https://1.bp.blogspot.com/-8wJye-5bBRY/Xy0AlGWqtBI/AAAAAAAABcE/Y6NYml6fIPM2IKdhLVmp0PtIhuuvn84owCLcBGAsYHQ/s640/tvv9.png",
 "youtubeurl" : "https://www.youtube.com/watch?v=jdJoOhqCipA"
   },
-  
-  {
-"channel":"Suvarna",
-"image": "https://1.bp.blogspot.com/-8wJye-5bBRY/Xy0AlGWqtBI/AAAAAAAABcE/Y6NYml6fIPM2IKdhLVmp0PtIhuuvn84owCLcBGAsYHQ/s640/tvv9.png",
-"youtubeurl" : "https://www.youtube.com/watch?v=fEJ4kBnbRz0"
-  }
+
 ]
