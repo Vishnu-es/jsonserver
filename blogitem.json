@@ -25,7 +25,7 @@
        "id":3,
        "imagedata":"",
        "title":"Learn C",
-        "youtube":"https://www.youtube.com/embed/KJgsSFOSQv0",
+        "youtube":"https://www.youtube.com/embed/KJgsSFOSQv0?rel=0",
         "description":"This course will give you a full introduction into all of the core concepts in the C programming language. The C Programming Language is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, as well as co-designed the Unix operating system with which development of the language was closely intertwined. ",
         "publisher":"Alice",
         "reference":"",
