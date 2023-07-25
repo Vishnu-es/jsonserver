@@ -5,8 +5,8 @@
     <body>
          <script>
          alert('hello')
-        const urlParams = window.location.search;
-             console.log(urlParams)
+        const urlParams = new URLSearchParams(window.location.search);
+             console.log(urlParams.get())
 for (const [key, value] of urlParams) {
     console.log(`${key}:${value}`);
 }
